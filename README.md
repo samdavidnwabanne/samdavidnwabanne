@@ -1,6 +1,6 @@
 # Hi, I'm SamDavid 👋
 
-I'm an engineering student exploring AI, Automation and Robotics.
+I'm an technology enthusiast exploring AI, Automation and Robotics.
 
 I'm interested in how technology can be used to build useful things, solve problems and make work easier.
 
