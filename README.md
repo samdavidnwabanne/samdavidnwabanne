@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm SamDavid 👋
 
-<!--
-**samdavidnwabanne/samdavidnwabanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student exploring AI, Automation and Robotics.
 
-Here are some ideas to get you started:
+I'm interested in how technology can be used to build useful things, solve problems and make work easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Exploring
+
+- Artificial Intelligence
+- Automation
+- Robotics
+- Python
+- Prompt Engineering
+- Web3
+
+## Current Journey
+
+I'm currently documenting my hands-on learning, experiments and projects in AI, Automation and Robotics.
+
+### Featured Journey
+
+[AI, Automation & Robotics Journey](https://github.com/samdavidnwabanne/AI-Automation-Robotics-Journey)
